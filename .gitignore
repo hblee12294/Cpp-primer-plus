@@ -17,6 +17,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#CodeBlocks files
+*.depend
+*.cbp
+*.layout
+
+#Generated files
+bin/
+obj/
+
 # =========================
 # Operating System Files
 # =========================
